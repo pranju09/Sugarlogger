@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  width: 90%;
+  margin: 20px auto;
+  height: 100vh;
+}
+a {
+  text-decoration: none;
+}
+.nav-link {
+  list-style-type: none;
+  margin-top: 20px;
+  li {
+    margin-bottom: 10px;
+  }
+}
+.gray-backgrond {
+  background: #eee;
+  padding: 30px;
+}
+.pt-6 {
+  padding-top: 6px;
+}
+.text-center {
+  text-align: center;
+}
+
+// patient list
+.patients-list {
+  width: 100%;
+  margin: 40px 0;
+  th,
+  td {
+    padding: 5px 0;
+  }
+}

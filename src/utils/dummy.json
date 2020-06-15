@@ -1,0 +1,60 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "name": "Pranjali Bhosale",
+      "mobile": "9820714954",
+      "referral": "Dr.Sane",
+      "branch": "Nahur (E) ",
+      "date": "Jun 1,2020"
+    },
+    {
+      "id": "2",
+      "name": "Suchitra Jadhav",
+      "mobile": "9820390965",
+      "referral": "Dr.Palak Mehta",
+      "branch": "Thane (E) ",
+      "date": "Apr 27,2020"
+    },
+    {
+      "id": "3",
+      "name": "Rutuja Kanase",
+      "mobile": "9820090965",
+      "referral": "Dr.Jain",
+      "branch": "Thane (E) ",
+      "date": "Apr 27,2020"
+    },
+    {
+      "id": "4",
+      "name": "Manish Naik",
+      "mobile": "9820714954",
+      "referral": "SELF",
+      "branch": "Thane (E) ",
+      "date": "Apr 27,2020"
+    },
+    {
+      "id": "5",
+      "name": "Anand Pawar",
+      "mobile": "9820714954",
+      "referral": "Dr.Akshay Kulkarni",
+      "branch": "Kalyan (W) ",
+      "date": "Apr 27,2020"
+    },
+    {
+      "id": "6",
+      "name": "Junaid Sayed",
+      "mobile": "9834945765",
+      "referral": "Dr.Akshay Bhosale",
+      "branch": "Bandra (W) ",
+      "date": "Apr 4,2020"
+    },
+    {
+      "id": "7",
+      "name": "Manish Porwal",
+      "mobile": "9834945626",
+      "referral": "SELF",
+      "branch": "Thane (E) ",
+      "date": "Apr 27,2019"
+    }
+  ]
+}

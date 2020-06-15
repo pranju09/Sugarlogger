@@ -1,0 +1,55 @@
+.graph-card {
+  padding: 0;
+  margin: 50px auto;
+  position: relative;
+  font-size: 15px;
+  height: auto;
+  width: 600px;
+}
+
+.graph-card-header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px 15px; // height: 64px;
+  background-color: #fff !important;
+  border-radius: 3px;
+}
+
+.graph-card-title {
+  font-size: 16px;
+  margin-bottom: 0 !important;
+}
+
+.graph-card-right {
+  display: flex;
+  flex-direction: row;
+  color: #96979d;
+}
+
+.graph-card-body {
+  padding: 10px 15px;
+  height: 100%;
+  overflow: hidden;
+  background-color: #fff !important;
+  border-top-left-radius: 3px;
+  border-top-right-radius: 3px;
+  margin-bottom: 2px;
+  margin-top: 2px;
+}
+.graph-div {
+  margin: -25px 0 0 !important;
+}
+.graph-card-footer {
+  text-align: right;
+  padding: 10px 15px; // height: 64px;
+  background-color: #fff !important;
+  border-bottom-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  margin-bottom: 2px;
+}
+.switch-table {
+  color: #fda63c;
+  text-transform: uppercase;
+  font-size: 13px;
+}

@@ -1,0 +1,23 @@
+.select-input {
+  width: 130px;
+  margin: 0 5px;
+  &.is-open,
+  &.is-focused,
+  &.is-searchable {
+    border-color: #96979d;
+  }
+  .Select-control {
+    border-radius: 2px;
+    border-color: #96979d;
+    &:hover {
+      box-shadow: none;
+    }
+  }
+  .Select-value .Select-value-label {
+    color: #96979d !important;
+  }
+  .Select-arrow-zone {
+    color: #96979d;
+    font-size: 12px;
+  }
+}

@@ -1,0 +1,18 @@
+// Search input
+.search-input {
+  display: inline;
+  font-size: 14px;
+  position: relative;
+  width: 200px;
+  margin: 0 10px;
+  input {
+    padding: 4px 25px 4px 10px;
+    width: 300px;
+  }
+  .search-icon {
+    position: absolute;
+    right: 10px;
+    top: -1px;
+    color: gray;
+  }
+}
